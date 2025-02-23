@@ -21,3 +21,17 @@ This prepares the data for effective feature extraction. Next, the text is trans
 Insights are drawn by analyzing these metrics, along with visualizations such as accuracy plots, confusion matrices, and class distribution graphs. The deliverable for this task is a well-documented notebook showcasing the complete workflow, including data preprocessing steps, model implementation, evaluation metrics, and visual insights. This comprehensive approach helps understand the sentiment patterns within the textual data and can be applied to various domains, including social media monitoring, customer feedback analysis, and brand reputation management.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c4afd917-b2ea-40da-a3a3-5b286182bf81)
+
+![Image](https://github.com/user-attachments/assets/1cb0d04c-ee8f-4687-8412-cdb6e53e0466)
+
+![Image](https://github.com/user-attachments/assets/909971a5-df1c-4937-9072-223ef4d1b68f)
+
+![Image](https://github.com/user-attachments/assets/f02a0556-7a17-4ffa-96da-4fd5a7a5822a)
+
+![Image](https://github.com/user-attachments/assets/e2f5b8c9-eb68-4d8b-b899-0a4d5a9fd965)
+
+![Image](https://github.com/user-attachments/assets/a6a97a08-58e4-4250-842c-a94eb4cff27f)
+
+![Image](https://github.com/user-attachments/assets/90a2d7b1-4c3b-4d9f-81d1-876e7782d9b6)
